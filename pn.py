@@ -56,8 +56,7 @@ with description:
 
     st.subheader("""Sumber Dataset""")
     st.write("""
-    Sumber data di dapatkan melalui website kaggle.com, Berikut merupakan link untuk mengakses sumber dataset.
-    <a href="https://www.kaggle.com/datasets/gauravduttakiit/indian-liver-patient">Klik disini</a>""", unsafe_allow_html=True)
+    Sumber data di dapatkan melalui website kaggle.com.
         
 with dataset:
     st.subheader("""Dataset Anemia""")
