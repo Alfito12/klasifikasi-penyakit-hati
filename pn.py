@@ -41,7 +41,7 @@ with description:
         """
         Fitur-fitur yang terdapat pada dataset:
         - Age umur
-        - Gender jenis kelamin
+        - Gender jenis kelamin (0=Female, 1=Male)
         - Total Bilirubin Pemeriksaan yang dilakukan untuk mengetahui kadar bilirubin total dalam tubuh seseorang. 
         - Direct Bilirubin  dilakukan untuk mengetahui kadar bilirubin direk di dalam darah.
         - Alkaline Phosphotase dilakukan untuk mengukur jumlah enzim alkaline phosphatase dalam aliran darah. 
