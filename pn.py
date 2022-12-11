@@ -50,7 +50,7 @@ with description:
         - Total Proteins dilakukan untuk mengukur jumlah total dua jenis protein pada tubuh yaitu albumin dan globulin
         - Albumin  dilakukan untuk melihat kadar albumin dalam darah.
         - Albumin and Globulin Ratio perbandingan albumin dengan globulin, yang merupakan konstituen utama protein yang ditemukan dalam darah.
-        - Hasil: 1 Masalah Hati (Positive), 2 Tidak Masalah Hati (Negative)
+        - Hasil: 1 Masalah Hati = Pasien penyakit hati (Positive), 2 Tidak Masalah Hati = Bukan pasien penyakit hati(Negative)
         """
     )
 
