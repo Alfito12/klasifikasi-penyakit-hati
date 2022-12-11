@@ -58,12 +58,7 @@ with description:
     st.write("""
     Sumber data di dapatkan melalui website kaggle.com, Berikut merupakan link untuk mengakses sumber dataset.
     <a href="https://www.kaggle.com/datasets/gauravduttakiit/indian-liver-patient">Klik disini</a>""", unsafe_allow_html=True)
-    
-    st.subheader("""Tipe Data""")
-    st.write("""
-    Tipe data yang di gunakan pada dataset anemia ini adalah NUMERICAL.
-    """)
-
+        
 with dataset:
     st.subheader("""Dataset Anemia""")
     df = pd.read_csv('https://raw.githubusercontent.com/Alfito12/dataset/main/indian_liver_patient_dataset.csv')
