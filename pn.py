@@ -57,7 +57,7 @@ with description:
     st.subheader("""Sumber Dataset""")
     st.write("""
     Sumber data di dapatkan melalui website kaggle.com.
-        
+    """)     
 with dataset:
     st.subheader("""Dataset Anemia""")
     df = pd.read_csv('https://raw.githubusercontent.com/Alfito12/dataset/main/indian_liver_patient_dataset.csv')
